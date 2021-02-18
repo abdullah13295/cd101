@@ -1,8 +1,11 @@
 # my cd101 repo 
 
-modules:
-1. grasshopper + python
-2. javaScript + canvas/webg1
-3. web ut, db,node
+List of purchases:
+1. milk
+2. juice
+3. An apple
+4. banana
+5. Bread
+6. eggs
 
-![LION](https://i.pinimg.com/originals/11/c5/b9/11c5b9bf0b99059687dd6f246c42228d.jpg)
+![wubba lubba dub dub](https://cdna.artstation.com/p/assets/images/images/013/641/654/large/amelia-404-2.jpg?1540530395.jpg)
