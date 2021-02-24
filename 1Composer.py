@@ -1,5 +1,4 @@
 n=int(input("please Enter number of composers: "))
-i=1
 f_names=[]
 l_names=[]
 b_years=[]
