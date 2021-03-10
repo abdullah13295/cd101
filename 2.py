@@ -145,6 +145,7 @@
 # first_foo(7,8) #here I want to do the opperations in(first_foo) on (7,8)
 
 # def first_fooo(x,y):
-#     a=x+y
+#     a=[x,y]
 #     return a #save result in mamory 
-
+# q=first_fooo(2,4)
+# print(q)
